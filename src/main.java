@@ -2,7 +2,7 @@
 public class main {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		// Remove comment so the line prints to the console
 		//System.out.println("Hello, world. This time, from Eclipse!");
 	}
 
